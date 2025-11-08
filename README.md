@@ -7,4 +7,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-furlan&hide_progress=true&theme=dracula)
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,css,html,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,css,html,react,mysql)](https://skillicons.dev)
