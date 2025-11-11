@@ -1,4 +1,5 @@
 <img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF6E96&section=header&reversal=false">
+
 ### Olá! Eu sou o Victor Furlan
 
 - 🖋️ Atualmente estudando React/JavaScript e C#
