@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF6E96&section=header&reversal=false"/>
 
 <!-- Título -->
-<h1 align="center">Olá! Eu sou o Victor Furlan 👋</h1>
+<h1 align="center">Olá! Eu sou o Victor Furlan </h1>
 
 ---
 
