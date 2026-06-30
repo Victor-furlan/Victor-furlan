@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  🖋️ Atualmente estudando React/JavaScript e C#  
+  🖋️ Atualmente estudando React/JavaScript
   <br>
   📧 Contate-me no email: victorcfurlan@gmail.com
 </p>
