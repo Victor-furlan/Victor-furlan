@@ -4,17 +4,17 @@
 <h1 align="center">Olá! Eu sou o Victor Furlan 👋</h1>
 
 <p align="center">
-Técnico em Desenvolvimento de Sistemas &nbsp;
+  <strong>Técnico em Desenvolvimento de Sistemas</strong>
   <br><br>
-  🖋️ Atualmente estudando <strong>React</strong> e <strong>JavaScript</strong>
-  <br>
-  📧 Contate-me: <a href="mailto:victorcfurlan@gmail.com">victorcfurlan@gmail.com</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/FF6E96/Victor-furlan" width="95%" alt="Victor's GitHub Contributions Chart"/>
+  🖋️ Atualmente estudando <strong>React</strong> e <strong>TypeScript</strong>
+  <br><br>
+  <a href="mailto:victorcfurlan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-victorcfurlan%40gmail.com-FF6E96?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/victorcfurlan">
+    <img src="https://img.shields.io/badge/Instagram-victorcfurlan-FF6E96?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -32,7 +32,7 @@ Técnico em Desenvolvimento de Sistemas &nbsp;
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,html,css,react,mysql,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=cs,js,html,css,react,nodejs,ts,mysql,postgres,figma,git,github" />
   </a>
 </p>
 
@@ -44,14 +44,12 @@ Técnico em Desenvolvimento de Sistemas &nbsp;
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[Nome do Projeto 1](#)** | Breve descrição do que o projeto faz. | `React` `JavaScript` |
+| **[MindCash](https://github.com/Victor-furlan/TCC)** | App de finanças pessoais. | `React` `TypeScript` |
 | **[Nome do Projeto 2](#)** | Breve descrição do sistema/app. | `C#` `MySQL` |
 
 </div>
 
 ---
-
-<h2 align="center">🐍 Minhas Contribuições</h2>
 
 <p align="center">
   <picture>
