@@ -45,6 +45,7 @@ looking for my **first opportunity in the tech industry**.
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
 | **[MindCash](https://github.com/Victor-furlan/TCC)** | Personal finance app — TCC project. | `React` `TypeScript` |
+| **[MindCash Mobile](https://github.com/Victor-furlan/TCC-mobile)** | Personal finance app (Companion app) — TCC project. | `React-native` `TypeScript` |
 
 </div>
 
