@@ -32,7 +32,7 @@ looking for my **first opportunity in the tech industry**.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,html,css,react,nodejs,ts,mysql,postgres,figma,git"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,ts,mysql,postgres,figma,git"/>
   </a>
 </p>
 
